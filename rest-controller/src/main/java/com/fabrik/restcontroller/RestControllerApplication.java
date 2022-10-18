@@ -8,7 +8,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class RestControllerApplication {
    
 	public static void main(String[] args) {
-		SpringApplication.run(RestControllerApplication.class, args);
+		SpringApplication.run(RestControllerApplication.class, args); 
 	}
         
 }
